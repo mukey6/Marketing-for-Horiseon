@@ -4,3 +4,6 @@ Restructured existing code to make it more accesible, so that the website is opt
 
 Made the index.html more semantic and consolidated CSS lines to make it more organized 
 
+
+
+https://mukey6.github.io/Marketing-for-Horiseon/#social-media-marketing
