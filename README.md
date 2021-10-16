@@ -6,4 +6,5 @@ Made the index.html more semantic and consolidated CSS lines to make it more org
 
 
 
-https://mukey6.github.io/Marketing-for-Horiseon/#social-media-marketing
+https://mukey6.github.io/Marketing-for-Horiseon/
+
